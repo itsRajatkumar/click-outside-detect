@@ -17,6 +17,10 @@
     "components"
   ],
   "author": "Rajat Kumar Prajapati",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsRajatkumar/click-outside-detect.git"
+},
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0"
