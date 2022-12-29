@@ -1,6 +1,6 @@
 {
   "name": "click-outside-detect",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "this package detect the click outside the components",
   "main": "click-outside-detect.js",
   "scripts": {
@@ -17,6 +17,10 @@
     "components"
   ],
   "author": "Rajat Kumar Prajapati",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsRajatkumar/click-outside-detect.git"
+},
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0"
